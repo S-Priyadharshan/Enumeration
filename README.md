@@ -72,6 +72,8 @@ Perform common SRV Record Enumeration
 Top level domain expansion
 ## OUTPUT:
 
+![image](https://github.com/user-attachments/assets/ec5c8110-4058-4f15-9af7-8b068c52b886)
+
 
 
 
