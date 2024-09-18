@@ -72,14 +72,14 @@ Perform common SRV Record Enumeration
 Top level domain expansion
 ## OUTPUT:
 
-![Uploading Screenshot 2024-09-18 151912.png…]()
+![Screenshot 2024-09-18 151912](https://github.com/user-attachments/assets/547ef03b-d82d-4500-a5ce-f24ad23c548b)
 
 
 
 ##dnsenum
 Dnsenum is a multithreaded perl script to enumerate DNS information of a domain and to discover non-contiguous ip blocks. The main purpose of Dnsenum is to gather as much information as possible about a domain. The program currently performs the following operations:
 
-![Uploading Screenshot 2024-09-18 152521.png…]()
+![Screenshot 2024-09-18 151912](https://github.com/user-attachments/assets/29d4b085-0c0c-4830-81af-41fda96c2ef5)
 
 
 Get the host’s addresses (A record).
